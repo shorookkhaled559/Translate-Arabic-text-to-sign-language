@@ -8,7 +8,7 @@ It aims to **bridge communication gaps** and make interaction more accessible fo
 ## Live Demo
 
 You can view the live version of the project here:  
-[Live Demo Link]()
+[Live Demo Link](https://shorookkhaled559.github.io/Translate-Arabic-text-to-sign-language/)
 
 ---
 
