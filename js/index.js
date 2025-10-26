@@ -16,7 +16,7 @@ translateButton.addEventListener('click', () => {
         if (validCharacters.includes(char)) {
             const img = document.createElement('img');
             img.src = `img/${char}.png`;
-            img.alt = `رمز لغة الإشارة لـ ${char}`;
+            img.alt = `${char}`;
             img.className = 'sign-symbol';
             signLanguageOutput.appendChild(img);
         }
